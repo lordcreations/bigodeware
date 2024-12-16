@@ -1,5 +1,0 @@
-C:\Users\null\source\repos\igris\igris\obj\Debug\net8.0\igris.csproj.AssemblyReference.cache
-C:\Users\null\source\repos\igris\igris\obj\Debug\net8.0\igris.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\null\source\repos\igris\igris\obj\Debug\net8.0\igris.AssemblyInfoInputs.cache
-C:\Users\null\source\repos\igris\igris\obj\Debug\net8.0\igris.AssemblyInfo.cs
-C:\Users\null\source\repos\igris\igris\obj\Debug\net8.0\igris.csproj.CoreCompileInputs.cache
